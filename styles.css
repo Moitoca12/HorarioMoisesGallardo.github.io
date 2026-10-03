@@ -1,0 +1,109 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #18558b;
+}
+
+.box_header {
+background-color: #fdfdfd;
+
+border-radius: 10px;
+
+box-shadow: inset 0px 0px 5px 1px #000000b5;
+
+text-align: center;
+padding: 0px 0px 0px 0px;
+}
+
+.cont_bs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 5vh;
+}
+
+.table_box_cont {
+    display: flex;
+    justify-content: center;
+
+    background: #fdfdfd;
+    width: 95vw;
+    height: 95vh;
+    border-radius: 20px;
+    border: 5px solid #fff;
+
+    overflow: hidden;
+
+    padding: 0px;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(243, 245, 246);
+
+    width: 95vw;
+    height: 95vh;
+
+    margin: 0px;
+}
+
+table {
+
+    width: 95vw;
+    height: 95vh;
+
+    border-collapse: collapse;
+
+    text-align: center;
+
+    word-wrap:break-word ;
+
+    table-layout: fixed;
+}
+
+tr td {
+    border: 1px solid #000;
+    overflow: hidden;
+}
+
+.mat {
+    background-color: #cce7ff83;
+}
+
+.pro {
+    background-color: #d681817f;
+}
+
+.ele {
+    background-color: #b8e6a762;
+}
+
+.a-p {
+    background-color: #e09ef080;
+}
+
+.alg {
+    background-color: #f3ff0f6e;
+}
+
+.idi {
+    background-color: #ff7b0089;
+}
+
+.arq {
+    background-color: #0087fd69;
+}
+
+.acr {
+    background-color: #80ff005d;
+}
+
+.for {
+    background-color: #5f401653;
+}
+
+.gri {
+    background-color: #81cff9;
+}
